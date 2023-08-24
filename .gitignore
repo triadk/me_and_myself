@@ -1,5 +1,5 @@
 .codio
         .gitignore
         .guides/
-        .settings
+        .settings/
         index.html
