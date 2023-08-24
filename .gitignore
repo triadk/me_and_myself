@@ -1,0 +1,5 @@
+.codio
+        .gitignore
+        .guides/
+        .settings
+        index.html
